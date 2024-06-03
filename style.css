@@ -1,0 +1,41 @@
+.class1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#backbutton {
+    align-content: center;
+    color: red;
+    text-decoration: none;
+}
+
+#backbutton:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+img {
+  border-radius: 20px 20px 20px 20px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+body {
+  background-color: rgb(255, 204, 255);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+a {
+  background-color: white;
+  font-size: 20px;
+  border-radius: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+  display: block;
+  text-align: center;
+  margin: 10px;
+  color: slateblue;
+}
