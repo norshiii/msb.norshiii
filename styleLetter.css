@@ -26,7 +26,6 @@
     text-align: center;
     background-color: #f74c86;
     border-radius: 10px;
-    opacity: .85;
   }
 
   .handwritten-letter {
@@ -34,8 +33,10 @@
     font-size: 20px
   }
 
-  body {
+   body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(83, 38, 83);
+    color: white;
   }
 
   /* Style the side navigation */
@@ -70,7 +71,7 @@ button {
   align-items: center;
   padding: 10px 30px;
   gap: 15px;
-  background-color: lightpink;
+  background-color: #f74c86;
   outline: 3px black solid;
   outline-offset: -3px;
   border-radius: 10px;
